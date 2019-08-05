@@ -7,7 +7,7 @@ Hiring senior level talent is a hard challenge and traditional methods like hour
 To avoid this problem, We can purse a _multi phased technical evaluation_, with at least two phases. One of them can be focused purely on technical competency and other based on behavioural competency on technical aspects. The emphases on the second part should be based on the [S.T.A.R]<sup>[1](#References)</sup>.
 technique.
 
-![The-Interview-Chair](images/interview-chair.jpg)
+![The-Interview-Chair](images/interview-chair-01.png)
 
 ## Technical Evaluation Methodology
 
